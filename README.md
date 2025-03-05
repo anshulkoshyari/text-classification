@@ -1,4 +1,4 @@
-# Text Sentiment Annotator
+# text-classification-GUI
 
 This Python project provides a graphical user interface (GUI) for annotating research paper sentences based on multiple sentiment layers. It allows the user to classify sentences from a text document into categories like sentiment polarity, section aspects, subjective polarity, and major comments.
 
